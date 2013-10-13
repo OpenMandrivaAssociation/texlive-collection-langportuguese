@@ -1,4 +1,4 @@
-# revision 21528
+# revision 30962
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langportuguese
 Epoch:		1
-Version:	20120224
+Version:	20131013
 Release:	1
 Summary:	Portuguese
 Group:		Publishing
@@ -16,12 +16,19 @@ Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-langpo
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
-Requires:	texlive-ordinalpt
-Requires:	texlive-hyphen-portuguese
 Requires:	texlive-collection-basic
+Requires:	texlive-babel-portuges
+Requires:	texlive-beamer-tut-pt
+Requires:	texlive-cursolatex
+Requires:	texlive-feupphdteses
+Requires:	texlive-hyphen-portuguese
+Requires:	texlive-latexcheat-ptbr
+Requires:	texlive-lshort-portuguese
+Requires:	texlive-ordinalpt
+Requires:	texlive-xypic-tut-pt
 
 %description
-Support for typesetting Portuguese.
+Support for Portuguese.
 
 #-----------------------------------------------------------------------
 %files
@@ -33,12 +40,3 @@ Support for typesetting Portuguese.
 %build
 
 %install
-
-
-%changelog
-* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
-+ Revision: 780453
-- Update to latest release.
-- Import texlive-collection-langportuguese
-- Import texlive-collection-langportuguese
-
