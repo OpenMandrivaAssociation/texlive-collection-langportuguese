@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-langportuguese
 Epoch:		1
-Version:	20170414
+Version:	20180501
 Release:	1
 Summary:	Portuguese
 Group:		Publishing
