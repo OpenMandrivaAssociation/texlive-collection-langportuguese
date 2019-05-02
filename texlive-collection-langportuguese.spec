@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-langportuguese
 Epoch:		1
-Version:	20180501
-Release:	3
+Version:	20190228
+Release:	1
 Summary:	Portuguese
 Group:		Publishing
 URL:		http://tug.org/texlive
