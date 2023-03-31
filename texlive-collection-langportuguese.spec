@@ -1,7 +1,7 @@
 Name:		texlive-collection-langportuguese
 Epoch:		1
 Version:	54074
-Release:	1
+Release:	2
 Summary:	Portuguese
 Group:		Publishing
 URL:		http://tug.org/texlive
