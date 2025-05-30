@@ -1,6 +1,6 @@
 Name:		texlive-collection-langportuguese
 Epoch:		1
-Version:	67125
+Version:	73303
 Release:	1
 Summary:	Portuguese
 Group:		Publishing
